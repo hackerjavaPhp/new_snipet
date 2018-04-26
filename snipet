@@ -1,0 +1,40 @@
+<!-- category products -->
+	<section class="bg-category-interface">
+		<div class="wrapper">
+			<div class="bg-category-interface-blocks">
+				<a class="bg-category-interface-blocks-bl blocks-bl-image-1" href="#"><div class="bg-category-interface-blocks-bl-ele">
+					<p>Куклы<br>и аксессуары</p>
+				</div></a>
+				<a class="bg-category-interface-blocks-bl blocks-bl-image-2" href="#"><div class="bg-category-interface-blocks-bl-ele">
+					<p>Конструкторы</p>
+				</div></a>
+				<a class="bg-category-interface-blocks-bl blocks-bl-image-3" href="#"><div class="bg-category-interface-blocks-bl-ele">
+					<p>Мягкие<br> игрушки</p>
+				</div></a>
+				<a class="bg-category-interface-blocks-bl blocks-bl-image-4" href="#"><div class="bg-category-interface-blocks-bl-ele">
+					<p>Игровые<br> наборы</p>
+				</div></a>
+				<a class="bg-category-interface-blocks-bl blocks-bl-image-5" href="#"><div class="bg-category-interface-blocks-bl-ele">
+					<p>Детская<br> одежда</p>
+				</div></a>
+				<a class="bg-category-interface-blocks-bl blocks-bl-image-6" href="#"><div class="bg-category-interface-blocks-bl-ele">
+					<p>Карнавальные<br> костюмы</p>
+				</div></a>
+				<a class="bg-category-interface-blocks-bl blocks-bl-image-7" href="#"><div class="bg-category-interface-blocks-bl-ele">
+					<p>Транспорт</p>
+				</div></a>
+				<a class="bg-category-interface-blocks-bl blocks-bl-image-8" href="#"><div class="bg-category-interface-blocks-bl-ele">
+					<p>Герои<br> мультфильмов</p>
+				</div></a>
+				<a class="bg-category-interface-blocks-bl blocks-bl-image-9" href="#"><div class="bg-category-interface-blocks-bl-ele">
+					<p>Электронные игры</p>
+				</div></a>
+				<a class="bg-category-interface-blocks-bl blocks-bl-image-10" href="#"><div class="bg-category-interface-blocks-bl-ele">
+					<p>Электронные игры</p>
+				</div></a>
+                
+				<!-- clear -->
+				<div class="clear"></div>
+			</div>
+		</div>
+	</section>
